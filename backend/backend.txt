@@ -1,1 +1,2 @@
 feature 1
+integrated feature 1
