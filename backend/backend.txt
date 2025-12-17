@@ -3,3 +3,4 @@ integrated feature 1
 feature 2
 integrated feature 2
 feature 3
+integrated feature 3
